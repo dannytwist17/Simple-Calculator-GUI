@@ -19,11 +19,17 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 1. Clone the repository  
    ```bash
    git clone https://github.com/dannytwist17/Simple-Calculator-GUI.git
+   ```
+2. ```bash
    cd simple-calculator-gui
+   ```
+3. ```bash
    python calculator_gui.py
+   ```
 
 ## 🧑‍💻 Author
 **Adam Musa**
+
 Feel free to fork and improve.
 ## 📄 License
 This project is licensed under the MIT License.
