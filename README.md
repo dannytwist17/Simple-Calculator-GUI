@@ -18,7 +18,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/simple-calculator-gui.git
+   git clone https://github.com/dannytwist17/Simple-Calculator-GUI.git
    cd simple-calculator-gui
    python calculator_gui.py
 
