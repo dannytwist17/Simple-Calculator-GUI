@@ -30,6 +30,6 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ## 🧑‍💻 Author
 **Adam Musa**
 
-Feel free to fork and improve.
+Feel free to work and improve.
 ## 📄 License
 This project is licensed under the MIT License.
