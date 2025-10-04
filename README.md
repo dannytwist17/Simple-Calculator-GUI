@@ -22,8 +22,8 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
    cd simple-calculator-gui
    python calculator_gui.py
 
-🧑‍💻 Author
-Adam Musa
+## 🧑‍💻 Author
+** Adam Musa
 Feel free to fork and improve!
 📄 License
 This project is licensed under the MIT License.
