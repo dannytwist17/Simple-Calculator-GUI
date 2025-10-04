@@ -23,7 +23,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
    python calculator_gui.py
 
 ## 🧑‍💻 Author
-** Adam Musa **
+**Adam Musa**
 Feel free to fork and improve!
 ## 📄 License
 This project is licensed under the MIT License.
